@@ -14,13 +14,13 @@ void loop()
   delay(1000); // هر یک ثانیه تاخیر خط بعدی کد را اجرا می کند
 }
 
-#---------------function led on    تابع روشنایی در حالت روشن
+//---------------function led on    تابع روشنایی در حالت روشن
 void function_led_on()
 {
   digitalWrite(ledPin,HIGH); // وضعیت روشنایی به حالت روشن
 }
 
-#---------------function led off    تابع روشنایی در حالت خاموش   
+//---------------function led off    تابع روشنایی در حالت خاموش   
 void function_led_off()
 {
   digitalWrite(ledPin,LOW); // وضعیت روشنایی به حالت خاموش
