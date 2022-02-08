@@ -1,4 +1,5 @@
-![arduino-led](https://user-images.githubusercontent.com/64849090/153045818-a9ff41cf-f6d4-4d62-b8b9-190e7dcd02c3.png)
+![arduino-led](https://user-images.githubusercontent.com/64849090/153049451-71a9f955-9e89-4214-a9d4-3811beed0b8b.png) 
+
 
 
 پروژه بسیار ساده توسط میکروکنترلر Arduino Uno جهت یادگیری ابتدایی کار با این میکروکنترلر
